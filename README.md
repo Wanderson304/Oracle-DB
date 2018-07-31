@@ -1,2 +1,2 @@
 # Oracle
-Scripst Oracle
+Scripsts Oracle
