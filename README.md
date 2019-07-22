@@ -1,2 +1,2 @@
 # Oracle
-Scripsts Oracle
+Administração de Banco Oracle
